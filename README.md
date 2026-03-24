@@ -59,7 +59,17 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+<img width="1919" height="1015" alt="Screenshot 2026-03-16 142909" src="https://github.com/user-attachments/assets/8c61d7f1-a702-40af-9dc1-d8789513c9fc" />
+
+<img width="650" height="905" alt="Screenshot 2026-03-16 142919" src="https://github.com/user-attachments/assets/f87d6465-b39b-49ed-b7a4-6fe0d95e8e08" />
+
+<img width="715" height="892" alt="Screenshot 2026-03-16 142944" src="https://github.com/user-attachments/assets/175e373a-4869-4d41-a6f7-3b6d26e0d083" />
+
+<img width="699" height="895" alt="Screenshot 2026-03-16 143005" src="https://github.com/user-attachments/assets/a39f8955-af01-4ae8-872d-e055f4dd9f4e" />
+
+<img width="673" height="905" alt="Screenshot 2026-03-16 143034" src="https://github.com/user-attachments/assets/c14b6929-6c3c-4974-b0ed-da2853b814f4" />
+
+<img width="861" height="868" alt="Screenshot 2026-03-16 143055" src="https://github.com/user-attachments/assets/74fb06f0-c7af-4f0c-92b9-34a69e0da7ef" />
 
 ### Name: VAZHIGA BANU S
 ### Register Number:212225040484
